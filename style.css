@@ -1,0 +1,26 @@
+body{
+    /* background-color: rgba(255, 0, 170, 0.959); */
+    text-align: center;
+}
+button{
+    background-color: red;
+    height: 30px;
+    color: white;
+    position: relative;
+}
+.information{
+    background-image: url(11.jpg);
+    opacity: 0.3;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    position: absolute;
+}
+.info2{
+    opacity: 1;
+}
+.matayo{
+    font-size: 20px;
+    font-weight: bold;
+}
